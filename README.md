@@ -17,7 +17,7 @@
 
 # Manav Sharma
 
-**Junior SQL / Database Developer** · MySQL · Web Development
+**Junior SQL / Web Developer** · MySQL · Web Development
 
 Dadar, Mumbai · [Portfolio](https://dev-manavsharma-portfolio.pantheonsite.io) · manavsharma.7745@gmail.com
 
@@ -52,21 +52,19 @@ Web developer with hands-on SQL experience — writing and running queries indep
 
 <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,react,js,py,git,github,vscode,powerbi" />
 
-<sub>SSMS & Anaconda/Jupyter aren't in skillicons' set — mention them in your profile bio or About section instead.</sub>
+   <sub>Also comfortable with SSMS, Anaconda & Jupyter Notebook</sub>
 
 ---
 
 ### 📌 Featured Projects
 
-- **[Role-Based Task Management System](https://github.com/YOUR_USERNAME/role-based-task-manager)** — Laravel, PHP, MySQL, Ajax. UI and permissions change by login role; real-time status updates with no page reload.
 - **Stock Movement Sentiment Analysis** — Python. Visualized stock trend predictions to aid investment decisions.
 - **Road Type Classifier on Maps** — Python, GCP. ML model classifying road types for route planning.
 - **Empty Valet Parking Tracker** — Python. Tracks parking slot occupancy via CCTV feed.
 
-<sub>Replace the links above with your actual repo URLs once pushed.</sub>
 
 ---
 
 <div align="center">
-<i>"Your own one-line quote or motto goes here"</i>
+<i>"Fresh out, full of drive — building code by day, chasing new places and new tracks whenever I can."</i>
 </div>
