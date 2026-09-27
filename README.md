@@ -8,9 +8,9 @@
   4. Upload the image to this repo (or drag-drop it into a GitHub issue/comment
      to get a hosted URL under user-images.githubusercontent.com), then paste
      that URL below.
--->
-<img src="PASTE_YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="banner"/>
 
+<img src="PASTE_YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="banner"/>
+-->
 </div>
 
 <div align="center">
