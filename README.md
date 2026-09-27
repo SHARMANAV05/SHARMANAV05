@@ -33,7 +33,7 @@ Web developer with hands-on SQL experience — writing and running queries indep
 
 [![Portfolio](https://img.icons8.com/doodle/48/domain.png)](https://dev-manavsharma-portfolio.pantheonsite.io)
 [![LinkedIn](https://img.icons8.com/doodle/48/000000/linkedin--v2.png)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.icons8.com/doodle/48/000000/github--v1.png)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.icons8.com/doodle/48/000000/github--v1.png)](https://github.com/sharmanav05)
 [![Gmail](https://img.icons8.com/doodle/48/000000/gmail-new.png)](mailto:manavsharma.7745@gmail.com)
 
 </div>
